@@ -14,7 +14,7 @@
 
 ### 📫 How to reach me:
 
-Contact me on [GitHub](github), [Twitter](twitter) or via [email](email)
+Contact me on [GitHub][github], [Twitter][twitter] or via [email][email]
 
 [github]: https://github.com/ljfio
 [twitter]: https://twitter.com/ljf_io
