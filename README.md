@@ -4,7 +4,7 @@
 - I build software solutions using the .NET ecosystem
 - I am working towards Microsft Azure certification
 
-### 🔭 I’m currently working on :
+### What I’m currently working with 🔭
 
 - Front-end (Nuxt / Vue)
 - Back-end (C# / Go)
@@ -12,7 +12,7 @@
 - Tablet (UWP) 
 - Mobile (Xamarin / Java / Swift)
 
-### 📫 How to reach me:
+### How to reach me 📫
 
 Contact me on [GitHub][github], [Twitter][twitter] or via [email][email]
 
