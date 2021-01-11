@@ -1,6 +1,6 @@
 ### Hello, I'm Luke 👋
 
-- I am a Software Engineer living and working in beautiful Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- I am a software engineer living and working in beautiful Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 - I build software solutions using the .NET ecosystem
 - I am working towards Microsft Azure certification
 
