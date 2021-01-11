@@ -14,8 +14,8 @@
 
 ### How to reach me 📥
 
-Contact me on [GitHub][github], [Twitter][twitter] or via [email][email]
+Contact me on [LinkedIn][linkedin], [Twitter][twitter] or via [email][email]
 
-[github]: https://github.com/ljfio
+[linkedin]: https://linkedin.com/in/ljfio
 [twitter]: https://twitter.com/ljf_io
 [email]: mailto:hello@ljf.io
