@@ -2,13 +2,13 @@
 
 - I am a software engineer living and working in beautiful Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 - I build software solutions using the .NET ecosystem
-- I am working towards Microsft Azure certification
+- I am certified as a Microsft Azure Developer Associate and Power Platform Developer Associate
 
 ### What I’m currently working with 👨‍💻
 
-- Front-end (Nuxt / Vue)
-- Back-end (C# / Go)
-- Desktop (WPF)
+- Front-end (Nuxt / Vue / Blazor)
+- Back-end (C# .NET / Go)
+- Desktop (WPF / Avalonia)
 - Tablet (UWP) 
 - Mobile (Xamarin / Java / Swift)
 
