@@ -25,10 +25,9 @@
 
 ### How to reach me 📥
 
-Contact me on [LinkedIn][linkedin], [Twitter][twitter] or via [email][email]
+Contact me on [LinkedIn][linkedin], <a href="https://dotnet.social/@ljfio">Mastodon</a>,  or via [email][email]
 
 [linkedin]: https://linkedin.com/in/ljfio
-[twitter]: https://twitter.com/ljf_io
 [email]: mailto:hello@ljf.io
 [ms_ada]: https://www.credly.com/badges/30a3590f-d7fd-47b1-921a-2b39e709e678/public_url
 [ms_ppda]: https://www.credly.com/badges/d949c568-c2df-4ad6-b667-d6b3645b8cbb/public_url
